@@ -1,66 +1,55 @@
-# MyProjects
+# Signature-Verification-Project-Matlab
+
+->  Database Preparation
+
+->	Scanner Specification
+
+->	Filtering
+
+->	Binarization
+
+->	Conversion of Gray level image into binary image
+
+->	Cropping
+
+->	Thinning
+
+->	Skeletonization
+
+->	Rotation for Skew Correction
+
+->	Resizing
+
+->	Aspect Ratio ( Signature Width To height ratio )
+
+->	Horizontal and vertical center of the signature
+
+![01](https://user-images.githubusercontent.com/97385283/190892549-b7d11375-2d54-43c6-a904-45bab12ae0c5.png)
+![02](https://user-images.githubusercontent.com/97385283/190892551-10976214-b4bb-40d0-a8ff-0bdbf9b428df.png)
+![03](https://user-images.githubusercontent.com/97385283/190892553-f2449af6-d539-4f7a-be35-ec607df6f934.png)
+![04](https://user-images.githubusercontent.com/97385283/190892554-e32c0ab8-45dc-4c66-9df1-df422c5d845f.png)
+![05](https://user-images.githubusercontent.com/97385283/190892556-0b94aa70-c536-4265-9f40-5fb0085d38d4.png)
+![06](https://user-images.githubusercontent.com/97385283/190892557-7930f26c-b71c-4bb3-91eb-38ddd8bc94b1.png)
+
+# My Youtube proper video demo upload  
+https://www.youtube.com/@easycodeproject
 
 
-Signature Verification Using Image Processing in MATLAB
-This project implements a signature verification system using image processing techniques in MATLAB. The system compares a provided signature against a reference signature to determine authenticity.
 
-Features
-Image Preprocessing: Converts images to grayscale, applies noise reduction, and enhances signature features.
-Feature Extraction: Extracts key features like contours, edges, and geometric properties of the signature.
-Signature Matching: Compares extracted features to determine similarity.
-Visualization: Displays preprocessing and feature extraction steps for analysis.
-Requirements
-MATLAB R2020a or later.
-Toolboxes:
-Image Processing Toolbox.
-Installation
-Clone the repository:
-bash
-Copy code
-git clone <repository-url>
-cd signature-verification-matlab
-Open the project in MATLAB.
-Usage
-Place the reference and test signature images in the images folder.
-Edit the file paths in the script:
-matlab
-Copy code
-referenceImage = 'images/reference.png';
-testImage = 'images/test.png';
-Run the main script:
-matlab
-Copy code
-run('signature_verification.m');
-View the results in the MATLAB command window and plots.
-Workflow
-Load Images: Import the reference and test signature images.
-Preprocess Images: Convert to grayscale, normalize, and remove noise.
-Extract Features: Use image processing techniques to identify and compare signature characteristics.
-Compare and Validate: Match features using similarity metrics.
-Example
-Input:
+# Do you want to create or redesign an amazing website for your business and rank it on the first page of Google?
+# We are providing attractive offers, discounts, and benefits on some of our most demanding services like
+• New Website Development and Redesign
+• Mobile App Development
+• Custom Software Development
+• Branding & Graphics
+• App Development
+• CMS Development
+• Blockchain Development
+• Search Engine Optimization
 
-Reference signature: images/reference.png
-Test signature: images/test.png
-Output:
+We recognize the significance of a cost-effective strategy. We are excited to provide significant discounts and advantages on our most popular services.
+Let's set up a time to speak about your individual needs and goals, as well as how NetSear can personalize our services to improve your online visibility.
 
-Match score: 85%
-Result: Signature Matched
-Contribution
-Fork the repository.
-Create a feature branch:
-bash
-Copy code
-git checkout -b feature-name
-Commit changes:
-bash
-Copy code
-git commit -m "Add new feature"
-Push and create a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Author
-Sakshi Kathane
-GitHub Profile
-Email: Sakshikathane09@gmail.com
+# ► ➜ Business_Email: info@netsear.com
+# ► ➜ Website:  https://netsear.com/
+# ► ➜ Linkedin: netsear
