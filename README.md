@@ -16,15 +16,6 @@ This project focuses on signature verification using image processing techniques
 - MATLAB installed on your system (R2021b or later recommended).
 - Basic knowledge of MATLAB and image processing.
 
-## How to Use
-1. Clone this repository:
-   ```bash
-Open the project in MATLAB.
-Run the main script:
-matlab
-Copy code
-main.m
-Follow the on-screen instructions to upload and verify signatures.
 File Structure
 
 Signature Verification Project Using Image Processing in MATLAB
