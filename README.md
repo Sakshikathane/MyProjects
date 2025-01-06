@@ -39,4 +39,4 @@ For questions or feedback, feel free to reach out:
 
 Author: Sakshi Kathane
 Email: Sakshikathane09@gmail.com
-LinkedIn: Sakshi Kathane
+LinkedIn: [Sakshi Kathane](https://www.linkedin.com/in/sakshi-kathane/)
