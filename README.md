@@ -1,55 +1,51 @@
-# Signature-Verification-Project-Matlab
+# Signature Verification Project (MATLAB)
 
-->  Database Preparation
+## Project Overview
+This project focuses on signature verification using image processing techniques implemented in MATLAB. The goal is to verify the authenticity of a signature by analyzing its features and comparing it with a reference signature.
 
-->	Scanner Specification
+## Features
+- Preprocessing of images (grayscale conversion, noise removal, thresholding).
+- Feature extraction for identifying signature characteristics.
+- Matching algorithm for comparing input and reference signatures.
+- User-friendly interface for testing and results display.
 
-->	Filtering
+## Technologies Used
+- **MATLAB**: For implementing image processing algorithms and creating the verification system.
 
-->	Binarization
+## Prerequisites
+- MATLAB installed on your system (R2021b or later recommended).
+- Basic knowledge of MATLAB and image processing.
 
-->	Conversion of Gray level image into binary image
+## How to Use
+1. Clone this repository:
+   ```bash
+Open the project in MATLAB.
+Run the main script:
+matlab
+Copy code
+main.m
+Follow the on-screen instructions to upload and verify signatures.
+File Structure
 
-->	Cropping
+Signature Verification Project Using Image Processing in MATLAB
+SignatureProject.fig
+SignatureProject.m
+SignatureProjectFuntion.m
 
-->	Thinning
+Sample Output
+Matched Signature: Displays similarity score and verification as "Signature Match."
+Unmatched Signature: Displays similarity score and verification as "Signature Dosen't Match."
 
-->	Skeletonization
+Future Improvements
+Enhance feature extraction with advanced methods (e.g., SIFT, SURF).
+Incorporate machine learning techniques for better accuracy.
+Develop a graphical user interface (GUI) for easier use.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-->	Rotation for Skew Correction
+Contact
+For questions or feedback, feel free to reach out:
 
-->	Resizing
-
-->	Aspect Ratio ( Signature Width To height ratio )
-
-->	Horizontal and vertical center of the signature
-
-![01](https://user-images.githubusercontent.com/97385283/190892549-b7d11375-2d54-43c6-a904-45bab12ae0c5.png)
-![02](https://user-images.githubusercontent.com/97385283/190892551-10976214-b4bb-40d0-a8ff-0bdbf9b428df.png)
-![03](https://user-images.githubusercontent.com/97385283/190892553-f2449af6-d539-4f7a-be35-ec607df6f934.png)
-![04](https://user-images.githubusercontent.com/97385283/190892554-e32c0ab8-45dc-4c66-9df1-df422c5d845f.png)
-![05](https://user-images.githubusercontent.com/97385283/190892556-0b94aa70-c536-4265-9f40-5fb0085d38d4.png)
-![06](https://user-images.githubusercontent.com/97385283/190892557-7930f26c-b71c-4bb3-91eb-38ddd8bc94b1.png)
-
-# My Youtube proper video demo upload  
-https://www.youtube.com/@easycodeproject
-
-
-
-# Do you want to create or redesign an amazing website for your business and rank it on the first page of Google?
-# We are providing attractive offers, discounts, and benefits on some of our most demanding services like
-• New Website Development and Redesign
-• Mobile App Development
-• Custom Software Development
-• Branding & Graphics
-• App Development
-• CMS Development
-• Blockchain Development
-• Search Engine Optimization
-
-We recognize the significance of a cost-effective strategy. We are excited to provide significant discounts and advantages on our most popular services.
-Let's set up a time to speak about your individual needs and goals, as well as how NetSear can personalize our services to improve your online visibility.
-
-# ► ➜ Business_Email: info@netsear.com
-# ► ➜ Website:  https://netsear.com/
-# ► ➜ Linkedin: netsear
+Author: Sakshi Kathane
+Email: Sakshikathane09@gmail.com
+LinkedIn: Sakshi Kathane
