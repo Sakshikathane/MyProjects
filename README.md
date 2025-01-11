@@ -7,7 +7,7 @@ This project verifies signatures by comparing features from two images using Har
 - Input images: `sign1.jpg` and `sign2.jpg`.
 
 ## Steps to Run
-1. Place `sir1.jpg` and `sir2.jpg` in the script directory.
+1. Place `sign1.jpg` and `sign2.jpg` in the script directory.
 2. Run the MATLAB script.
 
 ## Workflow
