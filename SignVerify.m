@@ -1,5 +1,5 @@
-I1 = rgb2gray(imread('sir1.jpg'));
-I2 = rgb2gray(imread('sir2.jpg')); 
+I1 = rgb2gray(imread('sign1.jpg'));
+I2 = rgb2gray(imread('sign2.jpg')); 
 
 subplot(2,1,1)
 imshow(I1)
