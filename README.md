@@ -20,7 +20,8 @@ This project verifies signatures by comparing features from two images using Har
 ## Result
 The script displays `Matched` if the signatures are similar; otherwise, `Not Matched`.
 ![op1](https://github.com/user-attachments/assets/17fd7559-1672-4b7c-8904-5b73a8ef04cd)
-![Uploading op2.png…]()
+![op2](https://github.com/user-attachments/assets/d8cc5a67-0dd3-4cde-bc12-0b54ea4d7f71)
+
 
 
 
